@@ -12,7 +12,7 @@ public class Payroll_Legaspi {
     
     public static void main(String[] args) {
         String user = "Legaspi, Peter Seth B."; //employee name
-        System.out.println("Employee's Name:        " + user);
+        System.out.println("Employee Name:          " + user);
         
         float GP = 110000f; //gross pay
         System.out.println("Gross Pay:              " + GP);
